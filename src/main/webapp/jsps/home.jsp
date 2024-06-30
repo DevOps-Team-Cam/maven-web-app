@@ -13,7 +13,7 @@
 		<h1 align="center", style="color: red;">Welcome to FEWA IT CONSULTING</h1>
 		<h2 align="center"> 
 			<img src="images/tick.png">We are developing and supporting quality Software Solutions to millions of clients globally.<br/>
-			<img src="images/tick.png">We are raising billionaires IT professionals across the nations of the World.<br/>
+			<img src="images/tick.png">We are equipping billionaires and IT professionals across the nations of the World.<br/>
 			<img src="images/tick.png">We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.<br/>
 			<img src="images/tick.png"> At FEWA IT CONSULTING, We keep supporting your career.
 			Registration is ongoing, tell a friend.
